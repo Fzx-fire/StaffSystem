@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1630252294 source:d:\项目\c++项目\职工管理系统c++\staffsystem\main.cpp
+	<iostream>
+	"workerManager.h"
+	"worker.h"
+	"employee.h"
+	"manager.h"
+	"boss.h"
+
+1630252266 d:\项目\c++项目\职工管理系统c++\staffsystem\workermanager.h
+	<iostream>
+	<fstream>
+	"worker.h"
+	"employee.h"
+	"manager.h"
+	"boss.h"
+
+1630252266 source:d:\项目\c++项目\职工管理系统c++\staffsystem\workermanager.cpp
+	"workerManager.h"
+	"employee.h"
+	"manager.h"
+	"boss.h"
+
+1630222149 source:d:\项目\c++项目\职工管理系统c++\staffsystem\boss.cpp
+	"boss.h"
+
+1630236846 d:\项目\c++项目\职工管理系统c++\staffsystem\boss.h
+	<iostream>
+	"worker.h"
+
+1630222108 d:\项目\c++项目\职工管理系统c++\staffsystem\worker.h
+	<iostream>
+	<string>
+
+1630222989 source:d:\项目\c++项目\职工管理系统c++\staffsystem\employee.cpp
+	"employee.h"
+
+1630236846 d:\项目\c++项目\职工管理系统c++\staffsystem\employee.h
+	<iostream>
+	"worker.h"
+
+1630222149 source:d:\项目\c++项目\职工管理系统c++\staffsystem\manager.cpp
+	"manager.h"
+
+1630236846 d:\项目\c++项目\职工管理系统c++\staffsystem\manager.h
+	<iostream>
+	"worker.h"
+
